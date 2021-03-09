@@ -1,2 +1,2 @@
 # Space-Invaders
-One of my few first pygames. This is a space invader game which is still in development.
+One of my few first pygames. This is a space invader game which is COMPLETE!
