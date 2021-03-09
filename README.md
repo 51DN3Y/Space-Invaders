@@ -5,7 +5,5 @@ W = UP
 A = LEFT                                     
 S = DOWN                                  
 D = RIGHT                            
-
-SPACE = SHOOT
-
+SPACE = SHOOT                    
 LEFT/RIGHT CLICK = START
